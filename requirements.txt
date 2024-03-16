@@ -166,7 +166,7 @@ oauthlib==3.2.2
 omegaconf==2.3.0
 onnxruntime==1.17.0
 open-clip-torch==2.24.0
-openai
+openai==1.14.0
 opencv-python==4.9.0.80
 openpyxl==3.0.10
 
