@@ -368,5 +368,5 @@ xlrd==2.0.1
 yarl==1.9.4
 # ypy-websocket @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e638ipunz1/croot/ypy-websocket_1684192343550/work
 # zict @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_06f3lix4ji/croot/zict_1682698748419/work
-zipp==3.17.0
+
 
