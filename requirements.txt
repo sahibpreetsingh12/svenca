@@ -99,7 +99,7 @@ GitPython==3.1.41
 # gmpy2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-muov7gw1/gmpy2_1645462616268/work
 google-auth==2.27.0
 google-auth-oauthlib==1.2.0
-googleapis-common-protos==1.62.0
+# googleapis-common-protos==1.62.0
 gptcache==0.1.43
 greenlet==3.0.3
 grpcio==1.60.1
@@ -211,7 +211,7 @@ playwright==1.41.1
 ply==3.11
 posthog==3.4.0
 
-protobuf==3.20.2
+protobuf==3.20.3
 psutil==5.9.8
 
 pulsar-client==3.4.0
