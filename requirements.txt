@@ -156,7 +156,7 @@ dill==0.3.7
 beautifulsoup4==4.12.1
 #new
 nest-asyncio==1.6.0
-# networkx==3.2.1 #new
+networkx==3.2.1 #new
 
 numpy==1.26.4
 
