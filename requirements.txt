@@ -176,7 +176,7 @@ numpy==1.26.4
 
 nvidia-ml-py==11.525.150
 oauthlib==3.2.2
-ollama==0.1.4
+# ollama==0.1.4
 omegaconf==2.3.0
 onnxruntime==1.17.0
 open-clip-torch==2.24.0
