@@ -1,3 +1,10 @@
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+install('openai')
 import requests
 import io
 from PIL import Image
@@ -126,3 +133,4 @@ def background_changer_api(uploaded_file,text):
     )
 
     return r
+
