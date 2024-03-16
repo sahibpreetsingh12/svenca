@@ -174,7 +174,7 @@ networkx==3.2.1
 
 numpy==1.26.4
 
-nvidia-ml-py==11.525.150
+# nvidia-ml-py==11.525.150
 oauthlib==3.2.2
 # ollama==0.1.4
 omegaconf==2.3.0
