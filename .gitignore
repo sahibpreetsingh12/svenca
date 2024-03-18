@@ -7,3 +7,4 @@ important_keys.py
 venv
 images/
 temp/
+.env
